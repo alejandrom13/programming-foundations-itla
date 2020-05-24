@@ -1,0 +1,11 @@
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\exersice_1\bin\Debug\netcoreapp3.0\exersice_1.exe
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\exersice_1\bin\Debug\netcoreapp3.0\exersice_1.deps.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\exersice_1\bin\Debug\netcoreapp3.0\exersice_1.runtimeconfig.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\exersice_1\bin\Debug\netcoreapp3.0\exersice_1.runtimeconfig.dev.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\exersice_1\bin\Debug\netcoreapp3.0\exersice_1.dll
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\exersice_1\bin\Debug\netcoreapp3.0\exersice_1.pdb
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\exersice_1\obj\Debug\netcoreapp3.0\exersice_1.csprojAssemblyReference.cache
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\exersice_1\obj\Debug\netcoreapp3.0\exersice_1.AssemblyInfoInputs.cache
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\exersice_1\obj\Debug\netcoreapp3.0\exersice_1.AssemblyInfo.cs
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\exersice_1\obj\Debug\netcoreapp3.0\exersice_1.dll
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\exersice_1\obj\Debug\netcoreapp3.0\exersice_1.pdb
