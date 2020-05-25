@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALEJANDRO\\Desktop\\ \\ITLA\\2do Cuatrimestre\\Fundamentos de Programación\\PRACTICA 3\\programming-foundations-itla\\practice_3\\exersice_1\\exersice_1.csproj",
-      "projectName": "exersice_1",
-      "projectPath": "C:\\Users\\ALEJANDRO\\Desktop\\ \\ITLA\\2do Cuatrimestre\\Fundamentos de Programación\\PRACTICA 3\\programming-foundations-itla\\practice_3\\exersice_1\\exersice_1.csproj",
+      "projectUniqueName": "C:\\Users\\ALEJANDRO\\Desktop\\ \\ITLA\\2do Cuatrimestre\\Fundamentos de Programación\\PRACTICA 3\\programming-foundations-itla\\practice_3\\programas\\programas.csproj",
+      "projectName": "programas",
+      "projectPath": "C:\\Users\\ALEJANDRO\\Desktop\\ \\ITLA\\2do Cuatrimestre\\Fundamentos de Programación\\PRACTICA 3\\programming-foundations-itla\\practice_3\\programas\\programas.csproj",
       "packagesPath": "C:\\Users\\ALEJANDRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALEJANDRO\\Desktop\\ \\ITLA\\2do Cuatrimestre\\Fundamentos de Programación\\PRACTICA 3\\programming-foundations-itla\\practice_3\\exersice_1\\obj\\",
+      "outputPath": "C:\\Users\\ALEJANDRO\\Desktop\\ \\ITLA\\2do Cuatrimestre\\Fundamentos de Programación\\PRACTICA 3\\programming-foundations-itla\\practice_3\\programas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALEJANDRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

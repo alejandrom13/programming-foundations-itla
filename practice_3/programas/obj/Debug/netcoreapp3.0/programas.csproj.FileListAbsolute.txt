@@ -1,0 +1,11 @@
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\programas\bin\Debug\netcoreapp3.0\programas.exe
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\programas\bin\Debug\netcoreapp3.0\programas.deps.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\programas\bin\Debug\netcoreapp3.0\programas.runtimeconfig.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\programas\bin\Debug\netcoreapp3.0\programas.runtimeconfig.dev.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\programas\bin\Debug\netcoreapp3.0\programas.dll
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\programas\bin\Debug\netcoreapp3.0\programas.pdb
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\programas\obj\Debug\netcoreapp3.0\programas.csprojAssemblyReference.cache
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\programas\obj\Debug\netcoreapp3.0\programas.AssemblyInfoInputs.cache
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\programas\obj\Debug\netcoreapp3.0\programas.AssemblyInfo.cs
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\programas\obj\Debug\netcoreapp3.0\programas.dll
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\PRACTICA 3\programming-foundations-itla\practice_3\programas\obj\Debug\netcoreapp3.0\programas.pdb
