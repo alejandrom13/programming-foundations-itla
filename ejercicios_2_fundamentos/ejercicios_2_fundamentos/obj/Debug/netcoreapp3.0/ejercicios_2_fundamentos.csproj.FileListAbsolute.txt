@@ -1,0 +1,11 @@
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_2_fundamentos\bin\Debug\netcoreapp3.0\ejercicios_2_fundamentos.exe
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_2_fundamentos\bin\Debug\netcoreapp3.0\ejercicios_2_fundamentos.deps.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_2_fundamentos\bin\Debug\netcoreapp3.0\ejercicios_2_fundamentos.runtimeconfig.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_2_fundamentos\bin\Debug\netcoreapp3.0\ejercicios_2_fundamentos.runtimeconfig.dev.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_2_fundamentos\bin\Debug\netcoreapp3.0\ejercicios_2_fundamentos.dll
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_2_fundamentos\bin\Debug\netcoreapp3.0\ejercicios_2_fundamentos.pdb
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_2_fundamentos\obj\Debug\netcoreapp3.0\ejercicios_2_fundamentos.csprojAssemblyReference.cache
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_2_fundamentos\obj\Debug\netcoreapp3.0\ejercicios_2_fundamentos.AssemblyInfoInputs.cache
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_2_fundamentos\obj\Debug\netcoreapp3.0\ejercicios_2_fundamentos.AssemblyInfo.cs
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_2_fundamentos\obj\Debug\netcoreapp3.0\ejercicios_2_fundamentos.dll
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_2_fundamentos\obj\Debug\netcoreapp3.0\ejercicios_2_fundamentos.pdb
