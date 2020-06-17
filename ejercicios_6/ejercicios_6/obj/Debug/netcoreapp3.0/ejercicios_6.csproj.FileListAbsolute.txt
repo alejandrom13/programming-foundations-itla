@@ -1,0 +1,11 @@
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_6\ejercicios_6\bin\Debug\netcoreapp3.0\ejercicios_6.exe
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_6\ejercicios_6\bin\Debug\netcoreapp3.0\ejercicios_6.deps.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_6\ejercicios_6\bin\Debug\netcoreapp3.0\ejercicios_6.runtimeconfig.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_6\ejercicios_6\bin\Debug\netcoreapp3.0\ejercicios_6.runtimeconfig.dev.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_6\ejercicios_6\bin\Debug\netcoreapp3.0\ejercicios_6.dll
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_6\ejercicios_6\bin\Debug\netcoreapp3.0\ejercicios_6.pdb
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_6\ejercicios_6\obj\Debug\netcoreapp3.0\ejercicios_6.csprojAssemblyReference.cache
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_6\ejercicios_6\obj\Debug\netcoreapp3.0\ejercicios_6.AssemblyInfoInputs.cache
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_6\ejercicios_6\obj\Debug\netcoreapp3.0\ejercicios_6.AssemblyInfo.cs
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_6\ejercicios_6\obj\Debug\netcoreapp3.0\ejercicios_6.dll
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\ejercicios_6\ejercicios_6\obj\Debug\netcoreapp3.0\ejercicios_6.pdb
