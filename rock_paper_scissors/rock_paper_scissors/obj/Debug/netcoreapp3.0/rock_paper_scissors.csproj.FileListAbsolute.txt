@@ -1,0 +1,11 @@
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\rock_paper_scissors\rock_paper_scissors\bin\Debug\netcoreapp3.0\rock_paper_scissors.exe
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\rock_paper_scissors\rock_paper_scissors\bin\Debug\netcoreapp3.0\rock_paper_scissors.deps.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\rock_paper_scissors\rock_paper_scissors\bin\Debug\netcoreapp3.0\rock_paper_scissors.runtimeconfig.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\rock_paper_scissors\rock_paper_scissors\bin\Debug\netcoreapp3.0\rock_paper_scissors.runtimeconfig.dev.json
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\rock_paper_scissors\rock_paper_scissors\bin\Debug\netcoreapp3.0\rock_paper_scissors.dll
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\rock_paper_scissors\rock_paper_scissors\bin\Debug\netcoreapp3.0\rock_paper_scissors.pdb
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\rock_paper_scissors\rock_paper_scissors\obj\Debug\netcoreapp3.0\rock_paper_scissors.csprojAssemblyReference.cache
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\rock_paper_scissors\rock_paper_scissors\obj\Debug\netcoreapp3.0\rock_paper_scissors.AssemblyInfoInputs.cache
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\rock_paper_scissors\rock_paper_scissors\obj\Debug\netcoreapp3.0\rock_paper_scissors.AssemblyInfo.cs
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\rock_paper_scissors\rock_paper_scissors\obj\Debug\netcoreapp3.0\rock_paper_scissors.dll
+C:\Users\ALEJANDRO\Desktop\ \ITLA\2do Cuatrimestre\Fundamentos de Programación\ejercicios_2_fundamentos\rock_paper_scissors\rock_paper_scissors\obj\Debug\netcoreapp3.0\rock_paper_scissors.pdb
