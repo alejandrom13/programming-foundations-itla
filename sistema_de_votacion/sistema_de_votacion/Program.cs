@@ -112,25 +112,25 @@ namespace sistema_de_elecciones
             for (int i = 1; i <= 3; i++)
             {
                 if (candidato[i].cantidadVotos >= mayorCantidad)
-                { mayorCantidad = candidato[i].cantidadVotos; posicion[0].posicionCandidato = i; }
+                { mayorCantidad = candidato[i].cantidadVotos; posicion[0].posicionCandidato = 1; }
                 else
                 {
                     if (candidato[i].cantidadVotos <= menorCantidad)
-                    { menorCantidad = candidato[i].cantidadVotos; posicion[3].posicionCandidato = i; }
+                    { menorCantidad = candidato[i].cantidadVotos; posicion[3].posicionCandidato = 1; }
                 }
             }
             mayorCantidad = 0;
             menorCantidad = 0;
             posicion[1].posicionCandidato = -1;
             posicion[2].posicionCandidato = -1;
-            for (int j = 0; j <= 3; j++) 
+            for (int e = 0; e <= 3; e++) 
             {
-                if (j != posicion[0].posicionCandidato && j != posicion[3].posicionCandidato)
+                if (e != posicion[0].posicionCandidato && e != posicion[3].posicionCandidato)
                 {
-                    if (candidato[j].cantidadVotos >= mayorCantidad)
-                    { mayorCantidad = candidato[j].cantidadVotos; posicion[1].posicionCandidato = j; }
+                    if (candidato[e].cantidadVotos >= mayorCantidad)
+                    { mayorCantidad = candidato[e].cantidadVotos; posicion[1].posicionCandidato = e; }
                     else
-                    { menorCantidad = candidato[j].cantidadVotos; posicion[2].posicionCandidato = j; }
+                    { menorCantidad = candidato[e].cantidadVotos; posicion[2].posicionCandidato = e; }
                 }
             }
             if (posicion[2].posicionCandidato == -1) 
