@@ -112,11 +112,14 @@ namespace sistema_de_elecciones
             for (int i = 1; i <= 3; i++)
             {
                 if (candidato[i].cantidadVotos >= mayorCantidad)
-                { mayorCantidad = candidato[i].cantidadVotos; posicion[0].posicionCandidato = 1; }
+                { mayorCantidad = candidato[i].cantidadVotos; posicion[0].posicionCandidato = i; }
                 else
                 {
                     if (candidato[i].cantidadVotos <= menorCantidad)
-                    { menorCantidad = candidato[i].cantidadVotos; posicion[3].posicionCandidato = 1; }
+                    { menorCantidad = candidato[i].cantidadVotos; posicion[3].posicionCandidato = i; }
+                    /* DISCULPE QUE HICE UN COMMIT NUEVO AHORA, CAMBIE SOLO UN 1 POR UNA i YA QUE VERIFIQUE 
+                    QUE NO ESTABA FUNCIONANDO EL MOSTRAR LOS CANDIDATOS EN DESCENDENTE, SI QUIERE NO ME LO CALIFICA COMO BUENO
+                    PERO QUERIA ARREGLARLO XDXD*/
                 }
             }
             mayorCantidad = 0;
