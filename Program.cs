@@ -54,8 +54,6 @@ namespace PRACTICA_FINAL
       listaEmpleados.Add("01000013215", empleado3);
       listaEmpleados.Add("10072004", empleado3);
 
-
-
       Console.Write("Ingrese su numero de cédula: ");
       string cedula_empleado = Console.ReadLine();
       
