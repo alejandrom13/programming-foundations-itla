@@ -15,7 +15,10 @@ namespace PRACTICA_FINAL
     
     public static void Main(string[] args)
     {
+      string[] credenciales = new string[2];
+
       
+
       Hashtable listaEmpleados = new Hashtable();
       
       //EMPLEADO 1
@@ -25,9 +28,13 @@ namespace PRACTICA_FINAL
         creacion = new DateTime(2002, 2, 13),
         activa = true,
         rol = "SUPERVISOR",
+        
       };
        listaEmpleados.Add("40213664937", empleado1);
-       listaEmpleados.Add(empleado1, "13022002");
+       listaEmpleados.Add("13022002", empleado1);
+       
+       credenciales[0] = "13022002";
+       credenciales[1] = "40213664937";
        
       //EMPLEADO 2 
       Empleado empleado2 = new Empleado()
@@ -38,7 +45,7 @@ namespace PRACTICA_FINAL
         rol = "ADMINISTRADOR",
       };
       listaEmpleados.Add("01000042413", empleado2);
-      listaEmpleados.Add(empleado2, "01052005");
+      listaEmpleados.Add("01052005", empleado2);
       
       //EMPLEADO 3
       Empleado empleado3 = new Empleado()
@@ -50,7 +57,7 @@ namespace PRACTICA_FINAL
 
       };
       listaEmpleados.Add("01000013215", empleado3);
-      listaEmpleados.Add(empleado3, "10072004");
+      listaEmpleados.Add("10072004", empleado3);
       
       Console.Write("INGRESE SU NUMERO DE CEDULA: ");
       string cedula_empleado = Console.ReadLine();
