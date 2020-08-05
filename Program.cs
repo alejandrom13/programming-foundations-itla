@@ -100,8 +100,7 @@ namespace PRACTICA_FINAL
         Console.Write("INGRESE SU CLAVE: ");
         clave_empleado = Console.ReadLine();
       }
-      
-      // if (!listaEmpleados.ContainsKey(cedula_empleado) && listaEmpleados.ContainsValue(clave_empleado))
+
       
         Empleado empleado = (Empleado) listaEmpleados[cedula_empleado];
         if (cedula_empleado == credenciales1[0] && clave_empleado == credenciales1[1] 
@@ -119,8 +118,7 @@ namespace PRACTICA_FINAL
         {
           Console.WriteLine("LA CUENTA DE {0} ESTA INACTIVA, NO PUEDE ACCEDER", empleado.nombre);
         }
-
-      }
+    }
     }
   }
 
