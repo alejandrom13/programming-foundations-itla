@@ -30,7 +30,7 @@ namespace PRACTICA_FINAL
       
     }
 
-    public static void Main(string[] args)
+    public static void Main()
     {
       Hashtable listaEmpleados = new Hashtable();
 
@@ -95,11 +95,7 @@ namespace PRACTICA_FINAL
         Console.WriteLine("-----------------------------------------");
         Console.WriteLine("CREDENCIALES NO ENCONTRADAS EN EL SISTEMA");
         Console.WriteLine("-----------------------------------------");
-        Console.Write("INGRESE SU NUMERO DE CEDULA NUEVAMENTE: ");
-        cedula_empleado = Console.ReadLine();
-
-        Console.Write("INGRESE SU CLAVE: ");
-        clave_empleado = Console.ReadLine();
+        Main();
         
       }
 
@@ -110,11 +106,7 @@ namespace PRACTICA_FINAL
         Console.WriteLine("-----------------------------------------");
         Console.WriteLine("CREDENCIALES NO ENCONTRADAS EN EL SISTEMA");
         Console.WriteLine("-----------------------------------------");
-        Console.Write("INGRESE SU NUMERO DE CEDULA NUEVAMENTE: ");
-        cedula_empleado = Console.ReadLine();
-
-        Console.Write("INGRESE SU CLAVE: ");
-        clave_empleado = Console.ReadLine();
+        Main();
       }
 
       //MUESTRA INFO DEL EMPLEADO
@@ -134,6 +126,7 @@ namespace PRACTICA_FINAL
         else if (empleado.activa == false)
         {
           Console.WriteLine("LA CUENTA DE {0} ESTA INACTIVA, NO PUEDE ACCEDER", empleado.nombre);
+          Main();
         }
     }
   }
