@@ -5,13 +5,28 @@ namespace PRACTICA_FINAL
 {
   internal class Program
   {
+    //ALEJANDRO MATOS 2019-8540
+    
+    /*
+          *EMPLEADO 1*
+          CEDULA: 40213664937
+          CLAVE: 13022002
+          
+          *EMPLEADO 2*
+          CEDULA: 01000042413
+          CLAVE: 01052005
+          
+          *EMPLEADO 3* INACTIVO
+          CEDULA: 01000013215
+          CLAVE: 10072004
+     */ 
     public class Empleado
     {
       public string nombre { get; set; }
       public DateTime creacion { get; set; }
       public bool activa { get; set; }
       public string rol { get; set; }
-      public bool inactiva { get; set; }
+      
     }
 
     public static void Main(string[] args)
@@ -65,6 +80,7 @@ namespace PRACTICA_FINAL
       credenciales3[1] = "10072004";//CLAVE
 
 
+      //INICIAR SESION
       Console.Write("INGRESE SU NUMERO DE CEDULA: ");
       string cedula_empleado = Console.ReadLine();
       Console.Write("INGRESE SU CLAVE: ");
@@ -72,7 +88,7 @@ namespace PRACTICA_FINAL
       
       
       
-      
+      //BUCLES EN CASO DE INTRODUCIR DATOS INCORRECTOS
       while (!listaEmpleados.ContainsKey(cedula_empleado) || !listaEmpleados.ContainsValue(clave_empleado))
       {
         Console.WriteLine("-----------------------------------------");
@@ -85,7 +101,6 @@ namespace PRACTICA_FINAL
         clave_empleado = Console.ReadLine();
         
       }
-      
 
       while (cedula_empleado == credenciales1[0] && clave_empleado != credenciales1[1] 
              || cedula_empleado == credenciales2[0] && clave_empleado != credenciales2[1] 
@@ -101,7 +116,7 @@ namespace PRACTICA_FINAL
         clave_empleado = Console.ReadLine();
       }
 
-      
+      //MUESTRA INFO DEL EMPLEADO
         Empleado empleado = (Empleado) listaEmpleados[cedula_empleado];
         if (cedula_empleado == credenciales1[0] && clave_empleado == credenciales1[1] 
             || cedula_empleado == credenciales2[0] && clave_empleado == credenciales2[1] 
@@ -119,7 +134,7 @@ namespace PRACTICA_FINAL
           Console.WriteLine("LA CUENTA DE {0} ESTA INACTIVA, NO PUEDE ACCEDER", empleado.nombre);
         }
     }
-    }
+  }
   }
 
   
