@@ -120,63 +120,6 @@ namespace PRACTICA_FINAL
           Console.WriteLine("LA CUENTA DE {0} ESTA INACTIVA, NO PUEDE ACCEDER", empleado.nombre);
         }
 
-
-
-
-
-
-
-
-
-
-        // Hashtable empleado_1 = new Hashtable();
-
-        // //EMPLEADO 1
-        // empleado_1.Add("nombre", "ALEJANDRO ANTONIO MATOS CIPRIAN");
-        // empleado_1.Add("cedula", "40213664937");
-        // empleado_1.Add("clave", "13022002");
-        // empleado_1.Add("rol", "SUPERVISOR");
-        // DateTime empleado1_creacion = new DateTime(2002, 2, 13);
-        // empleado_1.Add("estado", "ACTIVA");
-        //
-        // //EMPLEADO 2
-        // Hashtable empleado_2 = new Hashtable();
-        // empleado_2.Add("nombre", "MIGUEL RAMON MORETA JIMENEZ");
-        // empleado_2.Add("cedula", "01000042413");
-        // empleado_2.Add("clave", "01052005");
-        // empleado_2.Add("rol", "ADMINISTRADOR");
-        // DateTime empleado2_creacion = new DateTime(2005, 5, 1);
-        // empleado_2.Add("estado", "ACTIVA");
-        //
-        // //EMPLEADO 3
-        // Hashtable empleado_3 = new Hashtable();
-        // empleado_3.Add("nombre", "JAVIER DE LOS SANTOS RAMIREZ");
-        // empleado_3.Add("cedula", "01000013215");
-        // empleado_3.Add("clave", "10072004");
-        // empleado_3.Add("rol", "VENDEDOR");
-        // DateTime empleado3_creacion = new DateTime(2004, 7, 10);
-        // empleado_3.Add("estado", "INACTIVA");
-        //
-        // //BIENVENIDA
-        // Console.WriteLine("HOLA BIENVENIDO A AMC CONSULTING");
-        // Console.WriteLine("---");
-        // Console.WriteLine("PRESIONE LA TECLA 'ENTER' PARA INICIAR SESION");
-        // Console.ReadKey();
-        //
-        // //INPUT CEDULA Y CLAVE
-        // string cedula_empleado = "";
-        // string clave_empleado;
-        // while (cedula_empleado != (string) empleado_1["nombre"] || cedula_empleado != (string) empleado_2["nombre"] || cedula_empleado != (string) empleado_3["nombre"])
-        // {
-        //   Console.Write("Ingrese su numero de cédula: ");
-        //   cedula_empleado = Console.ReadLine();
-        // }
-        //
-        //
-        // Console.Write("Ingrese su clave: ");
-        // clave_empleado = Console.ReadLine();
-        //
-
       }
     }
   }
