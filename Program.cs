@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 
 namespace PRACTICA_FINAL
@@ -95,19 +95,14 @@ namespace PRACTICA_FINAL
         Console.WriteLine("-----------------------------------------");
         Console.WriteLine("CREDENCIALES NO ENCONTRADAS EN EL SISTEMA");
         Console.WriteLine("-----------------------------------------");
-        Main();
+        Console.Write("INGRESE SU NUMERO DE CEDULA: ");
+        cedula_empleado = Console.ReadLine();
+        Console.Write("INGRESE SU CLAVE: ");
+        clave_empleado = Console.ReadLine();
         
       }
 
-      while (cedula_empleado == credenciales1[0] && clave_empleado != credenciales1[1] 
-             || cedula_empleado == credenciales2[0] && clave_empleado != credenciales2[1] 
-             || cedula_empleado == credenciales3[0] && clave_empleado != credenciales3[1])
-      {
-        Console.WriteLine("-----------------------------------------");
-        Console.WriteLine("CREDENCIALES NO ENCONTRADAS EN EL SISTEMA");
-        Console.WriteLine("-----------------------------------------");
-        Main();
-      }
+
 
       //MUESTRA INFO DEL EMPLEADO
         Empleado empleado = (Empleado) listaEmpleados[cedula_empleado];
