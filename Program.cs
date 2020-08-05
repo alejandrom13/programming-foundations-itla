@@ -126,6 +126,7 @@ namespace PRACTICA_FINAL
         
         Console.WriteLine("Bienvenido a la plataforma {0}", empleado.nombre);
         Console.WriteLine("Usted ha accedido con el usuario {0}, y su rol es: {1}", cedula_empleado, empleado.rol);
+        Console.WriteLine("Esta cuenta fue creada el {0}", empleado.creacion);
         Console.WriteLine("SU CUENTA ESTA ACTIVA");
         
         }
