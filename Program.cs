@@ -4,10 +4,11 @@ namespace practica7
 {
     internal class Program
     {
+        //ALEJANDRO MATOS 2019-8540
         public static void Main(string[] args)
         {
             //PRIMER PROGRAMA
-        /*  Console.WriteLine("Un programa que pida al usuario 4 números, los memorice, \n " +
+          Console.WriteLine("Un programa que pida al usuario 4 números, los memorice, \n " +
                             "calcule su media aritmética y después muestre en pantalla la media\n" +
                             " y los datos tecleados.\n" +
                             "*PRESIONE LA TECLA ENTER PARA CONTINUAR");
@@ -28,11 +29,11 @@ namespace practica7
             
             Console.WriteLine("Los numeros ingresados fueron: {0}, {1}, {2}, {3}", num[0], num[1], num[2], num[3]);
             Console.WriteLine("");
-            Console.WriteLine("La media de todos los números digitados es: {0}", media_Aritmetica); */
+            Console.WriteLine("La media de todos los números digitados es: {0}", media_Aritmetica); 
             
         
             //SEGUNDO PROGRAMA
-            /*Console.WriteLine("Un programa que pida al usuario 5 números reales y luego los muestre en el orden contrario al que se introdujeron \n" +
+            Console.WriteLine("Un programa que pida al usuario 5 números reales y luego los muestre en el orden contrario al que se introdujeron \n" +
                               "*PULSA ENTER PARA CONTINUAR*");
             Console.ReadKey();
 
@@ -53,11 +54,11 @@ namespace practica7
             foreach (var array in reverso)
             {
                 Console.WriteLine(array);
-            } */
+            } 
                 
                 
             //TERCER PROGRAMA
-          /*  Console.WriteLine("Un programa que almacene los días de la semana en un array y luego mostrarlo. \n" +
+            Console.WriteLine("Un programa que almacene los días de la semana en un array y luego mostrarlo. \n" +
                               "*PRESIONE ENTER PARA CONTINUAR");
             Console.ReadKey();
 
@@ -67,16 +68,16 @@ namespace practica7
             {
                 Console.WriteLine(" ");
                 Console.WriteLine(dias);
-            } */
+            } 
             
           //CUARTO PROGRAMA
-          /*Console.WriteLine("Un programa que almacene en una tabla el número de días que tiene cada mes\n" +
+          Console.WriteLine("Un programa que almacene en una tabla el número de días que tiene cada mes\n" +
                             " (supondremos que es un año no bisiesto), pida al usuario que le indique un mes\n" +
                             " (1=enero, 12=diciembre) y muestre en pantalla el número de días que tiene ese mes.\n" +
                             "*PRESIONE ENTER PARA CONTINUAR*");
           Console.ReadKey();
 
-          string[] dias =
+          string[] meses1 =
           {
               "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto",
               "Septiembre", "Octubre", "Noviembre", "Diciembre"
@@ -92,7 +93,7 @@ namespace practica7
               Console.Write("INGRESE EL MES EN NUMERO NUEVAMENTE: ");
               mes = Convert.ToInt32 (Console.ReadLine ());
           }
-          Console.WriteLine("{0} tiene {1} dias", dias[mes-1], diasMes[mes-1]); */
+          Console.WriteLine("{0} tiene {1} dias", meses1[mes-1], diasMes[mes-1]); 
 
           
           //QUINTO PROGRAMA
@@ -103,12 +104,7 @@ namespace practica7
               " el 31 de diciembre sería el día 365)\n" +
               "*PRESIONE ENTER PARA CONTINUAR");
           Console.ReadKey();
-          
-          
           DateTime EndDate = new DateTime(2020, 12, 31);
-          
-          
-          
           string[] meses =
           {
               "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto",
